@@ -1,0 +1,7 @@
+type,start,end,amount,description,account
+Payroll,08/01/2025,07/31/2027,4000,"Salary",
+SDGE,01/01/2023,01/01/2100,-110,"SDGE Bill",
+Groceries,01/01/2024,12/31/2025,-700,"Groceries",
+Food & Drink,01/01/2025,01/01/2100,-800,"Allowance for food and drink",
+Shopping,01/01/2025,01/01/2100,-400,"Allowance for shopping",
+Rent,09/01/2025,07/31/2027,-2000,"Rent",

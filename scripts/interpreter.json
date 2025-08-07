@@ -1,0 +1,54 @@
+{
+    "chase":{
+        "credit" : {
+            "date" : "Post Date",
+            "description" : "Description",
+            "type" : "Category",
+            "amount" : "Amount"
+        },
+        "debit" : {
+            "date" : "Posting Date",
+            "description" : "Description",
+            "type" : "Type",
+            "amount" : "Amount",
+            "balance" : "Balance"
+        }
+    },
+    "capital":{
+        "credit" : {
+            "date" : "Posted Date",
+            "description" : "Description",
+            "type" : "Category",
+            "amount" : {"Debit":-1,"Credit":1}
+        }
+    },
+    "cash":{
+        "debit" : {
+            "date" : "Posting Date",
+            "description" : "Description",
+            "type" : "Type",
+            "amount" : "Amount",
+            "balance" : "Balance"
+        }
+    },
+    "bbva":{
+        "debit" : {
+            "date" : "FECHA",
+            "description" : "DESCRIPCIÓN",
+            "amount" : {"ABONO":1,"CARGO":1},
+            "balance" : "SALDO"
+        },
+        "date_format" : "%d/%m/%Y",
+        "currency" : "MXN"
+    },
+    "bancolombia":{
+        "debit" : {
+            "date" : "Posting Date",
+            "description" : "Description",
+            "type" : "Type",
+            "amount" : "Amount",
+            "balance" : "Balance"
+        },
+        "currency" : "COP"
+    }
+}

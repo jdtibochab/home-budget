@@ -1,0 +1,5 @@
+{
+    ".*DEBIT_CARD.*" : "Food & Drink",
+    ".*Airfare.*" : "Travel",
+    ".*7775.*" : "BBVA"
+}
