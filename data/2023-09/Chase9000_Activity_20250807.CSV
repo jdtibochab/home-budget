@@ -1,0 +1,4 @@
+,Details,Posting Date,Description,Amount,Type,Balance,Check or Slip #,Unnamed: 7,Unnamed: 8
+50,CREDIT,2023-09-14,INTEREST PAYMENT,0.01,MISC_CREDIT,1550.12,,,
+51,CREDIT,2023-09-08,Online Transfer from  CHK ...3197 transaction#: 18114845268,500.0,ACCT_XFER,1550.11,,,
+52,DSLIP,2023-09-05,REMOTE ONLINE DEPOSIT #          1,50.11,CHECK_DEPOSIT,1050.11,1.0,,

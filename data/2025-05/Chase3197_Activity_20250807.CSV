@@ -1,0 +1,7 @@
+,Details,Posting Date,Description,Amount,Type,Balance,Check or Slip #,Unnamed: 7,Unnamed: 8
+18,DEBIT,2025-05-16,Payment to Chase card ending in 4009 05/16,-88.63,LOAN_PMT,2148.62,,,
+19,CREDIT,2025-05-16,SDSU FOUNDATION  INVOICE                    PPD ID: 9892782001,1315.98,ACH_CREDIT,2237.25,,,
+20,DEBIT,2025-05-12,Payment to Chase card ending in 4009 05/12,-448.52,LOAN_PMT,921.27,,,
+21,DEBIT,2025-05-08,Online Transfer to  SAV ...9000 transaction#: 24340361999,-500.0,ACCT_XFER,1369.79,,,
+22,DEBIT,2025-05-02,Zelle payment to Juancho 24627882295,-2500.0,QUICKPAY_DEBIT,1869.79,,,
+23,CREDIT,2025-05-01,PAYROLL ST OF CA CA PAYROLL                 PPD ID: 9111113698,3088.87,ACH_CREDIT,4369.79,,,

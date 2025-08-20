@@ -1,0 +1,7 @@
+,Details,Posting Date,Description,Amount,Type,Balance,Check or Slip #,Unnamed: 7,Unnamed: 8
+24,DEBIT,2025-04-30,Payment to Chase card ending in 4009 04/30,-291.98,LOAN_PMT,1280.92,,,
+25,DEBIT,2025-04-08,Online Transfer to  SAV ...9000 transaction#: 23971045951,-500.0,ACCT_XFER,1572.90,,,
+26,DEBIT,2025-04-07,Payment to Chase card ending in 4009 04/07,-1094.88,LOAN_PMT,2072.90,,,
+27,DEBIT,2025-04-01,Payment to Chase card ending in 4009 04/01,-337.41,LOAN_PMT,3167.78,,,
+28,DEBIT,2025-04-01,Zelle payment to Juancho 24259076784,-3000.0,QUICKPAY_DEBIT,3505.19,,,
+29,CREDIT,2025-04-01,PAYROLL ST OF CA CA PAYROLL                 PPD ID: 9111113698,3088.87,ACH_CREDIT,6505.19,,,
